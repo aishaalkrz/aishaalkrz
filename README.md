@@ -17,7 +17,7 @@ Open to full-time roles and freelance projects.
 |---|---|---|---|
 | **Almohtaref** | Company website with an admin dashboard for products and categories | Angular · ASP.NET Core · SQL Server | [Live site](https://almohtaref-company-ui.pages.dev/) · [Overview](https://github.com/aishaalkrz/AlmohtarefCompanyWebsite) |
 | **Basira AI** | Upload an Excel or CSV file and get KPIs, charts and AI-written business insights | Angular · D3.js · FastAPI · Pandas | [Live demo](https://basira-web-kappa.vercel.app/) · [Code](https://github.com/aishaalkrz/excel-insights-ai) |
-| **Dawwir** (graduation project) | Arabic job platform connecting job seekers with companies, with dashboards for seekers, companies and admins | Angular 20 · Nx · ASP.NET Core 8 | [Code](https://github.com/TeamUniversity/platform-jobs-ui) |
+| **Dawwir** (graduation project) | Arabic job platform connecting job seekers with companies, with dashboards for seekers, companies and admins and real-time notifications | Angular 20 · Nx · SignalR · ASP.NET Core 8 | [Code](https://github.com/aishaalkrz/dawwir-platform) |
 | **Library Management API** | REST API for a university library: accounts with admin approval, borrowing, returns, overdue fines and email reminders | ASP.NET Core 8 · EF Core · SQL Server · JWT | [Code](https://github.com/aishaalkrz/Library-Management-Site) |
 
 I also practice algorithms on NeetCode: [neetcode-submissions](https://github.com/aishaalkrz/neetcode-submissions).
